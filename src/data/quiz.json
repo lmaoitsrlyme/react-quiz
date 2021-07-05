@@ -1,49 +1,47 @@
 {
   "data": [
     {
-      "question": "What is the capital of Croatia ?",
-      "choices": ["Split", "Osijek", "Zagreb", "Rijeka"],
-      "answer": "Zagreb"
+      "question": "what is the ratio of land to water on earth",
+      "choices": ["2 : 1", "1 : 3", "1 : 2", "1 : 4"],
+      "answer": "1 : 2"
     },
     {
-      "question": "What is the capital of Slovenia ?",
-      "choices": ["Celje", "Ljubljana", "Maribor", "Koper"],
-      "answer": "Ljubljana"
+      "question": "what country is the second largest contributor to carbon dioxide in our atmosphere",
+      "choices": ["usa", "brazil", "argentina", "ireland"],
+      "answer": "usa"
     },
     {
-      "question": "What is the capital of Austria ?",
-      "choices": ["Graz", "Salzburg", "Innsbruck", "Vienna"],
-      "answer": "Vienna"
+      "question": "what country is ranked worst in the EU for performance on climate change action",
+      "choices": ["usa", "brazil", "argentina", "ireland"],
+      "answer": "ireland"
     },
     {
-      "question": "What is the capital of Serbia ?",
-      "choices": ["Belgrade", "Novi Sad", "Niš", "Subotica"],
-      "answer": "Belgrade"
+      "question": "about how much have global temperatures increased in the past century",
+      "choices": ["1° celsius", "2° celsius", "3° celsius", "4° celsius"],
+      "answer": "1° celsius"
+    }
+  ],
+
+  "data2": [
+    {
+      "question": "what is the depth of the pacific ocean",
+      "choices": ["11.020 km", "11.021 km", "11.022 km", "11.023 km"],
+      "answer": "11.022 km"
     },
     {
-      "question": "What is the capital of Bosnia and Herzegovina ?",
-      "choices": ["Mostar", "Sarajevo", "Banja Luka", "Tuzla"],
-      "answer": "Sarajevo"
+      "question": "what is the biggest oceanic trench",
+      "choices": ["tonga trench", "diamantina trench", "puerto rico trench", "mariana trench"],
+      "answer": "mariana trench"
     },
     {
-      "question": "What is the capital of Hungary ?",
-      "choices": ["Zalaegerszeg", "Eger", "Szeged", "Budapest"],
-      "answer": "Budapest"
+      "question": "who successfully piloted the deepsea challenger to the challenger deep",
+      "choices": ["james cameron", "cames jameron", "jcmes cjmeron", "cjmes jcmeron"],
+      "answer": "ireland"
     },
     {
-      "question": "What is the capital of Slovakia ?",
-      "choices": ["Košice", "Nitra", "Bratislava", "Poprad"],
-      "answer": "Bratislava"
-    },
-    {
-      "question": "What is the capital of Romania ?",
-      "choices": ["Bucharest", "Craiova", "Constanta", "Braila"],
-      "answer": "Bucharest"
-    },
-    {
-      "question": "What is the capital of Germany ?",
-      "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
-      "answer": "Berlin"
+      "question": "what is the temperature of the deepest point of the pacific ocean",
+      "choices": ["1 - 4° celsius", "5 - 8° celsius", "9 - 12° celsius", "13 - 16° celsius"],
+      "answer": "1 - 4° celsius"
     }
   ]
 }
